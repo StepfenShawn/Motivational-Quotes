@@ -55,6 +55,7 @@ body {
     border-radius:100%; 
     cursor: pointer;
     box-shadow: 0 0 10px #f00;
+    user-select: none;
 }
 #bt_new:hover{
     color:#ffff;
