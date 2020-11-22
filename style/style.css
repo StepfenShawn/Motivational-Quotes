@@ -38,7 +38,7 @@ body {
     line-height:50px;
     letter-spacing:4px;
 }
-#bt_new{
+#bt_next{
     width:80px;
     height:80px;
     line-height: 80px;
@@ -55,7 +55,8 @@ body {
     border-radius:100%; 
     cursor: pointer;
     box-shadow: 0 0 10px #f00;
+    user-select: none;
 }
-#bt_new:hover{
+#bt_next:hover{
     color:#ffff;
 }
