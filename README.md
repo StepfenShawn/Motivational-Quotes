@@ -14,3 +14,4 @@ http://lower_jade.gitee.io/motivational-qutes/
 ## 😁 最后感谢以下大神对此项目的贡献!  
 * [Alan-Liang](https://github.com/Alan-Liang)  
 * [liuxilu](https://github.com/liuxilu)
+* [Atlas Chiew](https://github.com/atlaschiew)
